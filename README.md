@@ -1,34 +1,43 @@
-# Customer-_behaviour_analysis
-Built an end-to-end Retail Customer Behavior Analysis project using Python, SQL, PostgreSQL, and Power BI. Performed data cleaning, EDA, business analysis, customer segmentation, revenue analysis, and interactive dashboard creation to generate real-world business insights from retail shopping trends data.
-Project Title
+Project Overview
 
-Retail Customer Behavior and Shopping Trends Analysis
+An end-to-end Retail Customer Behavior and Shopping Trends Analysis project focused on transforming raw retail data into actionable business insights using Python, SQL, PostgreSQL, and Power BI.
 
 Tools & Technologies
-Python (Pandas)
-PostgreSQL
-SQL
-Power BI
-Jupyter Notebook
+
+#Python
+#Pandas
+#SQL
+#PostgreSQL
+#PowerBI
+#JupyterNotebook
+
 Project Workflow
-Data Cleaning and Transformation using Python
-Exploratory Data Analysis (EDA)
-Database Creation in PostgreSQL
-Business Problem Solving using SQL Queries
-Dashboard Development in Power BI
-Business Insights and Reporting
+
+#DataCleaning
+#DataTransformation
+#ExploratoryDataAnalysis
+#DatabaseIntegration
+#SQLAnalysis
+#DashboardDevelopment
+#BusinessInsights
+
 Key Business Insights
-Revenue contribution across different age groups
-Sales performance by product category
-Subscription trends among repeat customers
-Impact of discounts on purchases
-Customer segmentation based on purchase behavior
-Dashboard Features
-Revenue Analysis
-Product Category Sales
-Subscription Status Visualization
-Customer Segmentation
-Shipping Type Analysis
+
+#RevenueContributionByAgeGroup
+#SalesByProductCategory
+#SubscriptionTrendAnalysis
+#CustomerSegmentation
+#DiscountImpactAnalysis
+#ShippingTypeAnalysis
+
+Power BI Dashboard Features
+
+#RevenueAnalysis
+#SalesInsights
+#SubscriptionStatusVisualization
+#CustomerSegmentationDashboard
+#ProductPerformanceTracking
+
 Project Objective
 
-To simulate a real-world retail analytics workflow and generate actionable business insights using Python, SQL, and Power BI
+To simulate a real-world data analytics workflow by cleaning, analyzing, and visualizing retail customer data to generate business insights and support decision-making.
